@@ -1,4 +1,4 @@
 # test
 
-![](test/blob/master/UserNoteScreenshot.png)
+![](UserNoteScreenshot.png)
 
